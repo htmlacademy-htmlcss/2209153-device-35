@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Никита](https://up.htmlacademy.ru/htmlcss/35/user/2209153).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Нюкало] (https://up.htmlacademy.ru/profession/frontender/15/htmlcss/35/tutors).
 
 ---
 
